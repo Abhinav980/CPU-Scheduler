@@ -1,5 +1,5 @@
 # CPU-Scheduler
-# VASU Hi CR Hai :) #
+
 
 #include <bits/stdc++.h>
 #include "parser.h"
